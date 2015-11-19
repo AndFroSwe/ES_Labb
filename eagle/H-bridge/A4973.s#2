@@ -15630,7 +15630,7 @@ Source: www.mpe-connector.de / garry_shortform_2012.pdf</description>
 <part name="R3" library="resistor" deviceset="R-EU_" device="0207/10" value="1.2"/>
 <part name="R4" library="resistor" deviceset="R-EU_" device="0207/10" value="1.2"/>
 <part name="C3" library="rcl" deviceset="CPOL-EU" device="E5-13" value="100µF"/>
-<part name="X3" library="con-garry" deviceset="332-02" device=""/>
+<part name="X3" library="con-garry" deviceset="332-02" device="" value="MODE"/>
 </parts>
 <sheets>
 <sheet>
